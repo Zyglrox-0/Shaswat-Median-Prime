@@ -2,7 +2,8 @@
 
 # To run the Backend enter:
   npm run 
-  or to run with Nodemon:
+  
+# or to run with Nodemon:
   npm run dev 
   
 # To run the test cases
