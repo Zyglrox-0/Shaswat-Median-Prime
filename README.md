@@ -1,6 +1,6 @@
 # Shaswat-Median-Prime 
 # This project is created by Shaswat Sharma for the Touch Bistro Home Development Challenge for the Position Site Reliability Engineer III
-# To run, enter command: npm run dev in server directory, and npm run start in client directory.
+# To run, enter command: npm run dev in server directory, and npm start in client directory.
 
 # 1. Do you have Production experience with Node prior to the submission of this code challenge? if yes, for how long?
     I have had production work experience with other backend environments including Django but not with Node Js. 
