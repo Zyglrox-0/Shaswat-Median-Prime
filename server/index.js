@@ -27,7 +27,7 @@ var median = function(arr){
 
       if (arr.length % 2 == 0){
         result.push(arr[midpoint-1],arr[midpoint])
-        console.log(result)
+        //console.log(result)
         return result
         
       }else

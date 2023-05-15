@@ -60,8 +60,8 @@ function App(){
       <p>*Finds the median prime number(s) of the set of prime numbers less than the entered number </p>
       <h1> Enter a Number</h1>
       <form onSubmit= {handleSubmit}> 
-          <input class = "inputbox" type="number" required  onChange = {handleChange}></input>
-          <button class="button" type = "submit" > Find</button>
+          <input className = "inputbox" type="number" required  onChange = {handleChange}></input>
+          <button className ="button" type = "submit" > Find</button>
       </form>
       <div> 
         {(typeof Result.result !== 'undefined' && isSubmitted) &&
