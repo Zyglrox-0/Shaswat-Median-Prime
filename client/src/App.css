@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgb(40, 48, 71);
+    color: whitesmoke;
+}
+
+.container {
+    font-family: sans-serif;
+    display: flex;
+    align-items:normal;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2vh;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 0.5em 0.5em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2em;
+    margin: 0.01em;
+    transition-duration: 0.4s;
+  }
+.button:hover {
+    background-color: #71d774; /* Green */
+    color: white;
+}
+
+.inputbox[type=number]{
+    background: white;
+    border: 0.2em solid #1b1b1b; 
+    color: black;
+    width: "20%";
+    padding: 0.4em 0.01em;
+    margin: 0.2em;
+    font-size: 2em;
+    box-sizing: border-box;
+  }
